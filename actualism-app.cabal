@@ -1,0 +1,120 @@
+cabal-version:      2.4
+name:               actualism-app
+version:            0.1.0.0
+license:            MIT
+copyright:          2022 Sridhar Ratnakumar
+maintainer:         srid@srid.ca
+author:             Sridhar Ratnakumar
+category:           Web
+homepage:           https://srid.ca/actualism-app
+
+-- TODO: Before hackage release.
+-- A short (one-line) description of the package.
+synopsis:           A template for Haskell projects using Nix
+
+-- A longer description of the package.
+-- description:
+
+-- A URL where users can report bugs.
+-- bug-reports:
+
+extra-source-files:
+  LICENSE
+  README.md
+
+data-dir:           content
+data-files:         *.md
+
+common shared
+  ghc-options:
+    -Wall -Wincomplete-record-updates -Wincomplete-uni-patterns
+    -Wmissing-deriving-strategies -Wunused-foralls -Wunused-foralls
+    -fprint-explicit-foralls -fprint-explicit-kinds
+
+  mixins:
+    base hiding (Prelude),
+    relude (Relude as Prelude, Relude.Container.One),
+    relude
+
+  default-extensions:
+    BangPatterns
+    ConstraintKinds
+    DataKinds
+    DeriveDataTypeable
+    DeriveFoldable
+    DeriveFunctor
+    DeriveGeneric
+    DeriveLift
+    DeriveTraversable
+    DerivingStrategies
+    DerivingVia
+    EmptyCase
+    EmptyDataDecls
+    EmptyDataDeriving
+    ExistentialQuantification
+    ExplicitForAll
+    FlexibleContexts
+    FlexibleInstances
+    GADTSyntax
+    GeneralisedNewtypeDeriving
+    ImportQualifiedPost
+    KindSignatures
+    LambdaCase
+    MultiParamTypeClasses
+    MultiWayIf
+    NoStarIsType
+    NumericUnderscores
+    OverloadedStrings
+    PolyKinds
+    PostfixOperators
+    RankNTypes
+    ScopedTypeVariables
+    StandaloneDeriving
+    StandaloneKindSignatures
+    TupleSections
+    TypeApplications
+    TypeFamilies
+    TypeOperators
+    ViewPatterns
+
+  build-depends:
+    , aeson
+    , async
+    , base                >=4    && <5
+    , clay
+    , commonmark-simple
+    , data-default
+    , directory
+    , filepath
+    , generic-deriving
+    , htmx
+    , htmx-lucid
+    , htmx-servant
+    , lucid2
+    , mtl
+    , neat-interpolation
+    , optics-core
+    , pandoc-types
+    , profunctors
+    , relude              >=1.0
+    , scotty              >=0.21
+    , shower
+    , time
+    , wai-extra
+    , with-utf8
+
+  hs-source-dirs:     src
+  default-language:   Haskell2010
+  other-modules:
+    ActualismApp.Definition
+    ActualismApp.Hx
+    ActualismApp.Markdown
+    ActualismApp.Popup
+    ActualismApp.Style
+    Paths_actualism_app
+
+  autogen-modules:    Paths_actualism_app
+
+executable actualism-app
+  import:  shared
+  main-is: Main.hs
