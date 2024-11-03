@@ -44,6 +44,8 @@ renderMarkdown (Pandoc _ blocks) =
       P.HorizontalRule -> hr_ []
       P.Div attr xs -> do
         div_ (renderAttrs attr) $ mapM_ go xs
+      P.BlockQuote xs -> do
+        blockquote_ $ mapM_ go xs
       x -> error $ "unsupported block: " <> show x
     goInline = \case
       P.Space -> " " :: Html ()

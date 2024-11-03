@@ -10,6 +10,12 @@ style = do
     backgroundColor whitesmoke
     fontSize (px 19)
     padding (px 0) (px 0) (px 0) (px 0)
+  blockquote ? do
+    marginLeft (px 20)
+    marginRight (px 20)
+    paddingLeft (px 20)
+    borderLeft (px 3) solid lightgray
+    fontSize $ em 0.8
   div # ".container" ? do
     maxWidth (px 800)
     marginTop (px 40)
