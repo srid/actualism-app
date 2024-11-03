@@ -46,7 +46,10 @@ pageHome :: Html () -> Html ()
 pageHome index = do
   layout $ do
     index
-    footer_ "—srid (this website is work in progress!)"
+    footer_ $ do
+      "This website is a work in progress. To view recent changes, see the change history "
+      a_ [href_ "https://github.com/srid/actualism-app/commits/master/content"] "here"
+      "."
 
 layout :: Html () -> Html ()
 layout content = do
