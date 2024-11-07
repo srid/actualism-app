@@ -21,11 +21,19 @@ Achieve **feeling good** as the default baseline mood.
 
 ### Level 2
 
-Achieve **feeling excellent** as the default baseline mood, by making [naiveté](#naivete) second nature.
+Achieve **feeling great/excellent** as the default baseline mood, by making [naiveté](#naivete) second nature. Is there something -- an affective habit (possibly developed in early childhood) -- that is preventing you from being [naive](#naivete) (and [intelligent](#intelligence)) by default?
 
-If you remember a PCE, seek to rememorate it! Srid, the author, seeks to rememorate the flavour of [his PCE](https://srid.ca/pce-reports#ms) in both environmental and social contexts.
+:::srid
+Srid had to [identify, in real-time](#awareness), the early childhood affective habit of being *put down* by his then peers and adults, and thereby effortlessly channel that affective energy into feeling great, which brought more to fore his freed intelligence (otherwise kept suppressed by the habit) with the concomitant enthusiasm for living itself.
+:::
 
-TODO: flesh this out once I succeed in this level.
+Bonus: If you remember a PCE, seek to rememorate it! 
+
+:::srid
+Srid seeks to rememorate the flavour of [his PCE](https://srid.ca/pce-reports#ms) in both environmental and social contexts.
+:::
+
+TODO: This is still being worked on by Srid.
 :::
 
 ## The Process
