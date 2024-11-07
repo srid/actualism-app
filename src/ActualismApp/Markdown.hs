@@ -64,6 +64,8 @@ renderMarkdown (Pandoc _ blocks) =
             Definition.definitionLink def $ mapM_ goInline inlines
           Nothing ->
             a_ ([href_ url, title_ title] <> renderAttrs attrs) $ mapM_ goInline inlines
+      P.Image attr _inlines (url, title) ->
+        img_ ([src_ url, title_ title] <> renderAttrs attr)
       P.Span attr inlines ->
         span_ (renderAttrs attr) $ mapM_ goInline inlines
       x -> error $ "unsupported inline: " <> show x
