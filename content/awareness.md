@@ -1,3 +1,3 @@
-An **unbiased awareness** is the key. A **non-moving awareness**. Remain [naively](#naivete) open (i.e., without predicting ahead) to what is going on in the affective faculty while embracing and paying attention to it; adding nothing and removing nothing (neither clinging, nor ignoring).
+An **unbiased awareness** is the key. A **non-moving awareness**. Remain [naively](#naivete) open (i.e., without predicting ahead) to just what is going on in the affective faculty while embracing and paying fascinated attention to it. Add nothing, remove nothing (there is neither clinging, nor ignoring).
 
 Such attentiveness (thanks to [native intelligence](#intelligence)), as Richard says, is the end of its embrace.
