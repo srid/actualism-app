@@ -30,11 +30,12 @@ style = do
     border (px 1) solid black
     borderRadius (px 5) (px 5) (px 5) (px 5)
     boxShadow $ one $ bsColor darkslateblue $ shadow (px 7) (px 7)
-  div # ".srid" ? do
+  ".srid" ? do
     fontSize $ em 0.8
     opacity 0.2
     ":hover" & do
       opacity 1
+  div # ".srid" ? do
     paddingLeft (px 20)
   span # ".definition-link" ? do
     color blueviolet
