@@ -1,0 +1,32 @@
+# Github workflow to deploy to NixOS machine
+
+name: Deploy
+on:
+  push:
+    branches:
+      - "main"
+
+concurrency:
+  group: default
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: extractions/setup-just@v2
+      - uses: DeterminateSystems/nix-installer-action@main
+      - uses: DeterminateSystems/magic-nix-cache-action@main
+      - name: SSH key
+        run: |
+          mkdir -p ~/.ssh
+          cp nix/modules/flake-parts/nixos/known_hosts ~/.ssh/known_hosts
+          echo "${{ secrets.DEPLOY_SSH_KEY }}" > ~/.ssh/id_ed25519 
+          chmod -R og-rwx ~/.ssh
+          # Test
+          ssh root@5.161.237.23 hostname
+      - name: Build
+        run: nix build --no-link --print-out-paths
+      - name: Deploy through SSH
+        run: just deploy
