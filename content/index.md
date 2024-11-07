@@ -12,8 +12,6 @@ Put succintly, the actualism method is **an ongoing enjoyment and appreciation o
             
 Achieve **feeling good** as the default baseline mood.
 
-- Identify your top-most issue in life; then plan your life such as to periodically put yourself in situations that bring it to the fore.
-  - Using the method described immediately below, dissolve this issue with [naiveté](#naivete), thereby channeling the affective energy significantly.
 - Whenever feeling bad, first get back to feeling good.
   - To do this, [notice](#awareness) your ongoing habit of *feeding* the feeling (including attempts to 'change' it), and cease doing that. Cease everything but be ([simply](#naivete)) be [aware](#awareness) of the feeling.
     - When you do this, the body's [native intelligence](#intelligence) will automatically see the feeling to be silly, and you are back to feeling good.
@@ -21,6 +19,10 @@ Achieve **feeling good** as the default baseline mood.
   - Try to comprehend *how* "you" operate, while enjoying this exploration and reflection!
 - The body's [native intelligence](#intelligence) will do the rest
   - Prevalence and intensity of bad feelings (and this top-most issue) will decrease over time, with "you" becoming ever more [naive](#naivete).
+
+:::srid
+Srid personally first identified his top-most issue in life; then planned it such as to periodically put himself in situations that brought it more to the fore. Then, he began using the actualism method to weaken this top-most issue with [naiveté](#naivete), thereby channeling the affective energy significantly into feeling good as a bottomline.
+:::
 
 ### Level 2
 
