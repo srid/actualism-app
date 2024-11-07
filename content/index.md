@@ -26,19 +26,13 @@ Srid personally first identified his top-most issue in life; then planned it suc
 
 ### Level 2
 
-Achieve **feeling great/excellent** as the default baseline mood, by making [naiveté](#naivete) second nature. Is there something -- an affective habit (possibly developed in early childhood) -- that is retarding you from being [naive](#naivete) (and [intelligent](#intelligence)) by default?
+Achieve **feeling great/excellent** as the default baseline mood, by making [naiveté](#naivete) second nature. 
 
-:::srid
-Srid had to [identify, in real-time](#awareness), the early childhood affective habit of being *put down* by his then peers and adults, and thereby effortlessly channel that affective energy into feeling great, which brought more to fore his freed intelligence (otherwise kept suppressed by the habit) with the concomitant enthusiasm for living itself.
-:::
-
-If there seems to be nothing particular holding you back, then - if you are feeling good, [genuinely appreciate](#appreciation) feeling good, which may well have the effect of feeling great instantly.
-
-Bonus: If you remember a PCE, seek to rememorate it! 
-
-:::srid
-Srid seeks to rememorate the flavour of [his PCE](https://srid.ca/pce-reports#ms) in both environmental and social contexts.
-:::
+- Is there something -- an affective habit (possibly developed in early childhood) -- that is retarding you from being [naive](#naivete) (and [intelligent](#intelligence)) by default?
+  - [Srid had to [identify, in real-time](#awareness), the early childhood affective habit of being *put down* by his then peers and adults, and thereby effortlessly channel that affective energy into feeling great, which brought more to fore his freed intelligence (otherwise kept suppressed by the habit) with the concomitant enthusiasm for living itself.]{.srid}
+- If there seems to be nothing particular holding you back, then - if you are feeling good, [genuinely appreciate](#appreciation) feeling good, which may well have the effect of feeling great instantly.
+- Bonus: If you remember a PCE, seek to rememorate it! 
+  - [Srid seeks to rememorate the flavour of [his PCE](https://srid.ca/pce-reports#ms) in both environmental and social contexts.]{.srid}
 
 TODO: This is still being worked on by Srid.
 :::
