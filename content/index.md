@@ -5,6 +5,9 @@ One becomes an [actualist](https://actualfreedom.com.au/an/) by practicing the *
 ## The Method
 
 :::box
+
+Put succintly, the actualism method is **an ongoing enjoyment and appreciation of this moment of being alive** (read [This Moment of Being Alive](https://www.actualfreedom.com.au/richard/articles/thismomentofbeingalive.htm) for details).
+
 ### Level 1
             
 Achieve **feeling good** as the default baseline mood.
