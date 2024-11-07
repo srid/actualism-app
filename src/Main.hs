@@ -57,7 +57,7 @@ layout content = do
   html_ $ do
     head_ $ do
       meta_ [charset_ "utf-8", name_ "viewport", content_ "width=device-width, initial-scale=1"]
-      title_ "Actualism App"
+      title_ "Srid's Actualism Practice"
       -- reset css
       script_ [src_ "https://unpkg.com/htmx.org@2.0.3", integrity_ "sha384-0895/pl2MU10Hqc6jd4RvrthNlDiE9U1tWmX7WRESftEDRosgxNsQG/Ze9YMRzHq", crossorigin_ "anonymous"] $ fromString @Text ""
       link_ [rel_ "stylesheet", type_ "text/css", href_ "https://unpkg.com/modern-css-reset/dist/reset.min.css"]

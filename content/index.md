@@ -1,6 +1,6 @@
-# Actualism
+# Srid's Actualism Practice
 
-To practice [actualism](https://actualfreedom.com.au/an/), you must understand the **method** (_The Actualism Method_) as well as the **process** (_The Actualism Process_) which the method segues into. You must also understand how **naiveté** can be used to dissolve the **social identity** to facilitate the method to be easy and effortless. Once the *process* is finished, you are **actually free** from the human condition.
+One becomes an [actualist](https://actualfreedom.com.au/an/) by practicing the **method** (_The Actualism Method_) until it segues into the **process** (_The Actualism Process_). By resurrecting **naiveté**, one can more easily tackle the **social identity** such as to make the method easy and effortless. Once the *process* is finished, you are **actually free** from the human condition.
 
 ## The Method
 
