@@ -5,7 +5,6 @@ on:
   push:
     branches:
       - "main"
-      - "auto-deploy"
 
 concurrency:
   group: default
@@ -26,8 +25,7 @@ jobs:
           echo "${{ secrets.DEPLOY_SSH_KEY }}" > ~/.ssh/id_ed25519 
           chmod -R og-rwx ~/.ssh
           # Test
-          set -x
-          ssh -vvv root@5.161.237.23 hostname
+          ssh root@5.161.237.23 hostname
       - name: Build
         run: nix build --no-link --print-out-paths
       - name: Deploy through SSH
