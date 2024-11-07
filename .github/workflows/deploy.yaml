@@ -1,6 +1,6 @@
 # Github workflow to deploy to NixOS machine
 
-name: Deploy
+name: Deploy to Hetzner
 on:
   push:
     branches:
