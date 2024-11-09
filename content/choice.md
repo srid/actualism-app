@@ -1,0 +1,3 @@
+With the total [awareness](#awareness) and the sincerely [naive](#naivete) intent of the genuine desire to feel good/great, it is possible to instantly make the *choice* (via giving oneself permission and thereby letting go of whatever affective habit in the process) to feel great, thereby *channeling* the underlying affective energy into feeling great. All of this happens without the need for deliberately control (e.g.: no need to *force* myself).
+
+cf. [Richard on this 'choice'](https://x.com/sridca/status/1855301170341831050)

@@ -8,4 +8,4 @@ If you are enjoying and appreciating this moment of being alive (i.e. right here
 
 ---
 
-[Conditional enjoyment](#condenj) is the norm. Allow it in the beginning. Recognizing it to be the part of the same hope/disappointment cycle, however, you can channel that affective energy (as this moment unfolds) into being more sensuous which inheres to being alive.
+[Conditional enjoyment](#condenj) is the norm. Allow it in the beginning. Recognizing it to be the part of the same hope/disappointment cycle, however, you can [channel](#choice) that affective energy (as this moment unfolds) into being more sensuous which inheres to being alive.
