@@ -14,7 +14,7 @@ Achieve **feeling good** as the default baseline mood.
 
 - Whenever feeling bad, first get back to feeling good.
   - To do this, [notice](#awareness) your ongoing habit of *feeding* the feeling (including attempts to 'change' it), and cease doing that. Cease everything but ([simply](#naivete)) be [aware](#awareness) of the feeling.
-    - When you do this, the body's [native intelligence](#intelligence) will automatically see the feeling to be silly, and you are back to feeling good.
+    - When you do this, the body's [native intelligence](#intelligence) will [automatically see](#choice) the feeling to be silly, and you are back to feeling good.
 - Once feeling good, explore (in memory) *why* you felt bad.
   - Try to comprehend *how* "you" operate, while enjoying this exploration and reflection!
 - The body's [native intelligence](#intelligence) will do the rest
