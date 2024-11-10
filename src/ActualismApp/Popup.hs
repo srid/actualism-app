@@ -11,7 +11,7 @@ popupHandler = do
 
 popup :: Text -> Html () -> Html ()
 popup title content = do
-  div_ [class_ "popup", id_ "popup"] $ do
+  div_ [class_ "popup"] $ do
     -- close button
     closeButton
     -- content
@@ -26,6 +26,6 @@ closeButton = do
     , hx $ HxGet "/close"
     , hx $ HxTrigger Click
     , hx $ HxSwap Delete
-    , hx $ HxTarget "#popup"
+    , hx $ HxTarget "closest .popup"
     ]
     "×"
