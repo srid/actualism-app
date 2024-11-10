@@ -1,4 +1,4 @@
-# Srid's Actualism Practice
+# [Srid](https://x.com/sridca)'s Actualism Practice
 
 One becomes an [actualist](https://actualfreedom.com.au/an/) by practicing the **method** (_The Actualism Method_) until it segues into the **process** (_The Actualism Process_). By resurrecting **naiveté**, one can more easily tackle the **social identity** such as to make the method easy and effortless. Once the *process* is finished, you are **actually free** from the human condition.
 
