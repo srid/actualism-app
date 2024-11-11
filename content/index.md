@@ -8,7 +8,11 @@ One becomes an [actualist](https://actualfreedom.com.au/an/) by practicing the *
 
 Put succintly, the actualism method is **an ongoing enjoyment and appreciation of this moment of being alive** (read [This Moment of Being Alive](https://www.actualfreedom.com.au/richard/articles/thismomentofbeingalive.htm) for details).
 
-### Level 1
+### Feeling neutral
+
+If your [default mood](https://x.com/sridca/status/1789570423509967048) is less than neutral, then first achieve **feeling neutral** as the default baseline mood.
+
+### Feeling good
             
 Achieve **feeling good** as the default baseline mood.
 
@@ -16,26 +20,27 @@ Achieve **feeling good** as the default baseline mood.
   - To do this, [notice](#awareness) your ongoing habit of *feeding* the feeling (including attempts to 'change' it), and cease doing that. Cease everything but ([simply](#naivete)) be [aware](#awareness) of the feeling.
     - When you do this, the body's [native intelligence](#intelligence) will [automatically see](#choice) the feeling to be silly, and you are back to feeling good.
 - Once feeling good, explore (in memory) *why* you felt bad.
-  - Try to comprehend *how* "you" operate, while enjoying this exploration and reflection!
-- The body's [native intelligence](#intelligence) will do the rest
-  - Prevalence and intensity of bad feelings (and the larger habit/pattern) will decrease over time, with "you" becoming ever more [naive](#naivete).
+  - Try to comprehend *how* "you" operate, while enjoying this exploration and reflection! Is there a larger affective habitual pattern at play?
+- The more you stablize your baseline, the more the prevalence and intensity of bad feelings (and the larger habit/pattern) will weaken over time, with "you" becoming ever more [naive](#naivete).
 
 :::srid
 Srid personally first identified his top-most issue in life; then planned it such as to periodically put himself in situations that brought it more to the fore. Then, he began using the actualism method to weaken this top-most issue with [naiveté](#naivete), thereby [channeling](#choice) the affective energy significantly into feeling good as a bottomline.
 :::
 
-### Level 2
+### Feeling great
 
-Achieve **feeling great/excellent** as the default baseline mood, by making [naiveté](#naivete) second nature. 
+Achieve **feeling great** as the default baseline mood.
 
-- Is there something -- a subconscious undercurrent of an affective habit (possibly developed in early childhood) -- that is retarding you from being [naive](#naivete) (and [intelligent](#intelligence)) by default? Become [fascinatedly aware](#awareness) of it so as to effortlessly [channel](#choice) it towards feeling great.
+- Is there something -- a subconscious undercurrent of an affective habit (possibly developed in early childhood) -- that is actively retarding you from being [naive](#naivete) (and [intelligent](#intelligence)) by default? Become [fascinatedly aware](#awareness) of it so as to effortlessly [channel](#choice) it towards feeling great.
   - [Srid had to [identify, in real-time](#awareness), the early childhood affective habit of being *put down* by his then peers and adults, and thereby effortlessly [channel](#choice) that affective energy into feeling great, which brought more to fore his freed intelligence (otherwise kept suppressed by the habit) with the concomitant enthusiasm for living itself.]{.srid}
     - [He then began applying the same mechanism to anything else that prevented him from feeling good/great.]{.srid}
 - If there seems to be nothing particular holding you back, then - if you are feeling good, [genuinely appreciate](#appreciation) feeling good, which may well have the effect of feeling great instantly.
 - Bonus: If you remember a PCE, seek to rememorate it! 
   - [Srid seeks to rememorate the flavour of [his PCE](https://srid.ca/pce-reports#ms) in both environmental and social contexts.]{.srid}
 
-TODO: This is still being worked on by Srid.
+### Feeling excellent
+
+TODO
 :::
 
 ## The Process
