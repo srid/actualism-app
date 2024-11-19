@@ -42,6 +42,8 @@ Bonus:
 - If you remember a PCE, seek to rememorate it! 
   - [Srid seeks to rememorate the flavour of [his PCE](https://srid.ca/pce-reports#ms) in both environmental and social contexts.]{.srid}
 
+TODO: pure intent
+
 ### Feeling excellent
 
 TODO
