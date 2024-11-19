@@ -16,7 +16,7 @@ fmt:
 
 # Run ghciwatch -- auto-recompile and run `main` function
 run:
-    ghcid --restart=content -T :main
+    ghcid --restart=content -T ":main 3003"
 
 # Deploy the app to our NixOS VM (Hetzner)
 deploy:

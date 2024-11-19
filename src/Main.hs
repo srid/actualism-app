@@ -16,16 +16,23 @@ import System.FilePath ((</>))
 import Web.Scotty qualified as S
 
 {- |
- Main entry point.
+Main entry point.
 
- `just run` will invoke this function.
+`just run` will invoke this function.
 -}
 main :: IO ()
 main = do
   -- For withUtf8, see https://serokell.io/blog/haskell-with-utf8
   Utf8.withUtf8 $ do
     defs <- loadDefinitions
-    S.scotty 3000 $ do
+    -- Get first CLI argument as port
+    args <- getArgs
+    let port = case args of
+          [s] -> fromJust $ readMaybe @Int s
+          _ -> error "Usage: actualism-app <port>"
+
+    putStrLn $ "Starting server on port " <> show port
+    S.scotty port $ do
       S.middleware logStdout
       S.get "/" $ do
         S.html $ renderText $ pageHome $ fromJust $ Map.lookup "index" defs
