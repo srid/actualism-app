@@ -21,11 +21,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: extractions/setup-just@v2
       - name: Upload static files as artifact
         uses: actions/upload-pages-artifact@v3
-        with:
-          path: placeholder/
 
   deploy:
     environment:
